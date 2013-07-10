@@ -13,7 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
  */
 @Controller
 @RequestMapping("/welcome")
-public class FirstController {
+public class UserController {
 
     /*
     Objective: Illustrate usage of Request and simple MVC call
